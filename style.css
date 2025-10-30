@@ -1,0 +1,60 @@
+body{
+    background-color:rgb(235, 147, 137);
+}
+
+h1{
+        text-align: center;
+ }
+
+p{
+    text-align: center;
+    font-size: larger;
+ }
+
+ul{
+ text-align: center;
+ font-size: larger;
+    }
+
+
+      h2{
+        font-size: larger;
+     }   
+
+      img{
+        display: flex;
+     }
+
+     footer{
+        color: rgb(255, 95, 77);
+    
+     }
+
+
+     
+@media (max-width: 768px){
+    body{
+    background-color: rgb(235, 147, 137);
+    }
+    
+    h1{
+        text-align: center;
+    }
+    
+    p{
+       text-align: center;
+       font-size: large;
+    }
+
+    ul{
+        text-align: center;
+        font-size: larger;
+    }
+     h2{
+        font-size: larger;
+     } 
+
+     img{
+        display: flex;
+     }
+    }
